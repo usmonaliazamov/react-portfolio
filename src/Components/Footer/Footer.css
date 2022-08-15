@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    align-items: center;
+    margin: -8px -56px;
+    position: relative;
+    margin-top: -280px;
+}
+
+.f-contact {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 64px;
+    color: white;
+}
+
+.f-icons {
+    display: flex;
+    gap: 32px;
+}
